@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peyman's Webpage"
+title: "Peyman's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
