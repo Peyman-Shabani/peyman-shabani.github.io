@@ -23,7 +23,7 @@ repository               : "Peyman-Shabani/peyman-shabani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.jpg"
   name             : "Peyman Shabani"
   pronouns         : #"he/him"  
   bio              : "PhD Aerospace | Composites & Computational Mechanics"
