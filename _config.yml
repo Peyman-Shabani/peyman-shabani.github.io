@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Peyman Shabani"
   pronouns         : #"he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Aerospace | Computational Mechanics & Composites"
   location         : "Ottawa, Canada"
   employer         : "Carleton University, National Research Council Canada"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "peyman.shabani@carleton.ca" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/peyman-shabani/"
+  linkedin         : "peyman-shabani"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@CompVT"
+  youtube          : "CompVT"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
