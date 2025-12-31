@@ -7,6 +7,7 @@ excerpt: 'Assessment of pressure vessels presented at CSME 2025.'
 date: 2025-06-01
 venue: 'CSME 2025 – Canadian Society for Mechanical Engineering'
 paperurl: ''
-citation: 'M. Lanzo, P. Shabani, L. Li, J. Laliberte. (2025). &quot;Structural integrity assessment of type IV hydrogen pressure vessels: Drop testing and fatigue damage modelling.&quot; [cite_start]<i>CSME 2025</i>, Montreal, Canada. '
+citation: 'M. Lanzo, P. Shabani, L. Li, J. Laliberte. (2025). &quot;Structural integrity assessment of type IV hydrogen pressure vessels: Drop testing and fatigue damage modelling.&quot; <i>CSME 2025</i>, Montreal, Canada. '
 
 ---
+
