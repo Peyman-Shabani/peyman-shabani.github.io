@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peyman Shabani's HomePage"
+title: "Peyman Shabani"
 author_profile: true
 redirect_from: 
   - /about/
